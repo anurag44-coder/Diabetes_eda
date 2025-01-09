@@ -1,2 +1,2 @@
-# Diabetes_eda
+# Diabetes_Prediction_Model
 This machine learning model predicts the risk of developing type 2 diabetes using a Random Forest classifier. It analyzes patient data including age, BMI, blood glucose levels, insulin levels, blood pressure, and family history. Trained on the Pima Indians Diabetes Dataset, the model achieved an accuracy of 85% and an AUC-ROC of 0.92 on an independent test set. This model can assist healthcare providers in identifying individuals at high risk, enabling early interventions such as lifestyle counseling and medication adjustments to prevent or delay the onset of diabetes.
